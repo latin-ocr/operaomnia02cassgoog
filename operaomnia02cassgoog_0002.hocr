@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomnia02cassgoog/operaomnia02cassgoog_0002.png"; bbox 0 0 2992 4925; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 960 2345 2165 2490">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 960 2285 2245 2490">
+     <span class='ocr_line' id='line_1_1' title="bbox 960 2345 2165 2490; baseline -0.005 -41"><span class='ocrx_word' id='word_1_1' title='bbox 960 2365 1116 2453; x_wconf 78' lang='lat' dir='ltr'><strong>Dr.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1148 2351 1372 2490; x_wconf 70' lang='lat' dir='ltr'><strong>John</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1404 2349 1833 2449; x_wconf 65' lang='lat' dir='ltr'><strong>Rathbone</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1873 2345 2165 2461; x_wconf 63' lang='lat' dir='ltr'><strong><em>Olivet</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1356 2510 1777 2574">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1356 2510 1777 2574">
+     <span class='ocr_line' id='line_1_2' title="bbox 1356 2510 1777 2574; baseline -0.024 -3"><span class='ocrx_word' id='word_1_5' title='bbox 1356 2526 1521 2570; x_wconf 66' lang='lat' dir='ltr'><strong>mss</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1545 2524 1617 2566; x_wconf 63' lang='lat' dir='ltr'><strong>nn</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1645 2510 1777 2574; x_wconf 67' lang='lat'><strong>1394</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1040 2642 2089 2710">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1040 2642 2089 2710">
+     <span class='ocr_line' id='line_1_3' title="bbox 1040 2642 2089 2710; baseline -0.008 -9"><span class='ocrx_word' id='word_1_8' title='bbox 1040 2646 1140 2702; x_wconf 64' lang='lat' dir='ltr'><strong>OF</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1164 2642 1625 2710; x_wconf 66' lang='lat' dir='ltr'><strong>EALTfflflRE,</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1657 2642 2089 2698; x_wconf 64' lang='lat' dir='ltr'><strong>MARYLAND</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1339 2858 1801 2914">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1339 2858 1801 2914">
+     <span class='ocr_line' id='line_1_4' title="bbox 1339 2858 1801 2914; baseline 0.002 -4"><span class='ocrx_word' id='word_1_11' title='bbox 1339 2866 1573 2910; x_wconf 59' lang='lat' dir='ltr'><strong>auam</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1593 2858 1645 2914; x_wconf 69' lang='lat'><strong>4¹</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1673 2862 1801 2914; x_wconf 68' lang='lat'>1941</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 460 2992 4925">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 460 2992 4925">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 460 2992 4925; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 460 2992 4925; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
